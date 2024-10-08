@@ -1,0 +1,66 @@
+# Byte-compiled / cached Python files
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs and runtime files
+logs/
+*.log
+
+# Database files
+*.db
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model checkpoints and training artifacts
+data/models/
+data/model_evaluation/
+data/models/checkpoint-*/
+
+# Plot files
+data/plots/
+
+# Outputs
+outputs/
+
+# TensorBoard events
+logs/bert_training_logs/
+
+# Environment and dependencies
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python virtual environments
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore directory tree file
+dir_tree.txt
