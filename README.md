@@ -33,8 +33,8 @@ This project leverages **transfer learning** by fine-tuning a pre-trained **BERT
 Clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/LefterisKyriazanos/TransferLearning-BERT-CompanyClassifier.git
+cd TransferLearning-BERT-CompanyClassifier
 pip install -r requirements.txt
 ```
 
